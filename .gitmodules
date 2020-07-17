@@ -1,3 +1,6 @@
 [submodule "bi-pos-warehouse-management"]
 	path = bi-pos-warehouse-management
 	url = git@github.com:xmarts/bi-pos-warehouse-management.git
+[submodule "l10n-mx-pos-global-invoice"]
+	path = l10n-mx-pos-global-invoice
+	url = git@github.com:xmarts/l10n-mx-pos-global-invoice.git
