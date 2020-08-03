@@ -7,3 +7,6 @@
 [submodule "credit_limit_alert_update"]
 	path = credit_limit_alert_update
 	url = git@github.com:xmarts/credit_limit_alert_update.git
+[submodule "auto-payment-method"]
+	path = auto-payment-method
+	url = git@github.com:xmarts/auto-payment-method.git
