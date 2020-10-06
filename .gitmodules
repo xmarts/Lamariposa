@@ -10,3 +10,6 @@
 [submodule "auto-payment-method"]
 	path = auto-payment-method
 	url = git@github.com:xmarts/auto-payment-method.git
+[submodule "sale-routes-map-oin"]
+	path = sale-routes-map-oin
+	url = git@github.com:xmarts/sale-routes-map-oin.git
