@@ -10,3 +10,6 @@
 [submodule "auto-payment-method"]
 	path = auto-payment-method
 	url = git@github.com:xmarts/auto-payment-method.git
+[submodule "xmarts-custom-mariposa"]
+	path = xmarts-custom-mariposa
+	url = git@github.com:xmarts/xmarts-custom-mariposa.git
