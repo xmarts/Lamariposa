@@ -13,3 +13,6 @@
 [submodule "xmarts-custom-mariposa"]
 	path = xmarts-custom-mariposa
 	url = git@github.com:xmarts/xmarts-custom-mariposa.git
+[submodule "bi-sales-commission-user-partner"]
+	path = bi-sales-commission-user-partner
+	url = git@github.com:xmarts/bi-sales-commission-user-partner.git
