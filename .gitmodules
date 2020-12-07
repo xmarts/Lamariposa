@@ -16,3 +16,6 @@
 [submodule "bi-sales-commission-user-partner"]
 	path = bi-sales-commission-user-partner
 	url = git@github.com:xmarts/bi-sales-commission-user-partner.git
+[submodule "stock-purchase"]
+	path = stock-purchase
+	url = git@github.com:xmarts/stock-purchase.git
